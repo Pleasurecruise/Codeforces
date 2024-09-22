@@ -1,0 +1,3 @@
+D:/GitHub/Codeforces/Round970/cmake-build-debug/CMakeFiles/new_target.dir
+D:/GitHub/Codeforces/Round970/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/Codeforces/Round970/cmake-build-debug/CMakeFiles/rebuild_cache.dir
