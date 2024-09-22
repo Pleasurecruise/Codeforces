@@ -67,6 +67,12 @@ build CMakeFiles/new_target.dir/C.cpp.obj: CXX_COMPILER__new_target_unscanned_De
   OBJECT_DIR = CMakeFiles\new_target.dir
   OBJECT_FILE_DIR = CMakeFiles\new_target.dir
 
+build CMakeFiles/new_target.dir/D.cpp.obj: CXX_COMPILER__new_target_unscanned_Debug D$:/GitHub/Codeforces/Round970/D.cpp || cmake_object_order_depends_target_new_target
+  DEP_FILE = CMakeFiles\new_target.dir\D.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\new_target.dir
+  OBJECT_FILE_DIR = CMakeFiles\new_target.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target new_target
@@ -75,7 +81,7 @@ build CMakeFiles/new_target.dir/C.cpp.obj: CXX_COMPILER__new_target_unscanned_De
 #############################################
 # Link the executable new_target.exe
 
-build new_target.exe: CXX_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/A.cpp.obj CMakeFiles/new_target.dir/B.cpp.obj CMakeFiles/new_target.dir/C.cpp.obj
+build new_target.exe: CXX_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/A.cpp.obj CMakeFiles/new_target.dir/B.cpp.obj CMakeFiles/new_target.dir/C.cpp.obj CMakeFiles/new_target.dir/D.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\new_target.dir
