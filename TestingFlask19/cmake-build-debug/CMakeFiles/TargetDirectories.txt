@@ -1,0 +1,3 @@
+D:/GitHub/Codeforces/TestingFlask19/cmake-build-debug/CMakeFiles/TestingFlask19.dir
+D:/GitHub/Codeforces/TestingFlask19/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/Codeforces/TestingFlask19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
