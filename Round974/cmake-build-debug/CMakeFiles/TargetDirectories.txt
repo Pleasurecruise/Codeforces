@@ -1,0 +1,3 @@
+D:/GitHub/Codeforces/Round974/cmake-build-debug/CMakeFiles/Round974.dir
+D:/GitHub/Codeforces/Round974/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/Codeforces/Round974/cmake-build-debug/CMakeFiles/rebuild_cache.dir
