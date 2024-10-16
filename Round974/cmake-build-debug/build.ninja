@@ -61,6 +61,12 @@ build CMakeFiles/Round974.dir/B.cpp.obj: CXX_COMPILER__Round974_unscanned_Debug 
   OBJECT_DIR = CMakeFiles\Round974.dir
   OBJECT_FILE_DIR = CMakeFiles\Round974.dir
 
+build CMakeFiles/Round974.dir/C.cpp.obj: CXX_COMPILER__Round974_unscanned_Debug D$:/GitHub/Codeforces/Round974/C.cpp || cmake_object_order_depends_target_Round974
+  DEP_FILE = CMakeFiles\Round974.dir\C.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Round974.dir
+  OBJECT_FILE_DIR = CMakeFiles\Round974.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Round974
@@ -69,7 +75,7 @@ build CMakeFiles/Round974.dir/B.cpp.obj: CXX_COMPILER__Round974_unscanned_Debug 
 #############################################
 # Link the executable Round974.exe
 
-build Round974.exe: CXX_EXECUTABLE_LINKER__Round974_Debug CMakeFiles/Round974.dir/A.cpp.obj CMakeFiles/Round974.dir/B.cpp.obj
+build Round974.exe: CXX_EXECUTABLE_LINKER__Round974_Debug CMakeFiles/Round974.dir/A.cpp.obj CMakeFiles/Round974.dir/B.cpp.obj CMakeFiles/Round974.dir/C.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Round974.dir

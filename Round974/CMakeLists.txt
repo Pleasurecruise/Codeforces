@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Round974
     A.cpp
-        B.cpp)
+        B.cpp
+        C.cpp)
